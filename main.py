@@ -40,6 +40,7 @@ class Example(QWidget):
         else:
 
             event.ignore()
+            
 
 
 def main():
